@@ -146,6 +146,6 @@ Now that we had a chance to build some BST and know how to traverse it, we need 
 
 At the end, print the BST as a list of all the value in the 3 different ways of traversing the BST. 
 
-[Back to Homepage](Home)
+[Back to Homepage](Home.md)
 
 You can find a solution example here: [Solution](BST-sln.py) 
