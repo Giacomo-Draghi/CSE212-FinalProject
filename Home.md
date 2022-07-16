@@ -1,9 +1,9 @@
 # Python Fundamentals Tutorial
 
 Welcome, here you can find some basic instructions on some really important Phyton methods and functions that will help you in the jurney of learning this coding language. We will talk about: 
-- [Stacks](Stacks)
-- [Sets](Sets)
-- [Binary Search Tree](BST)
+- [Stacks](Stacks.md)
+- [Sets](Sets.md)
+- [Binary Search Tree](BST.md)
 
 On each of the above, you will see some basic explanations of the topic, a pratic example of what you can use it for and you will be left with an assigment or a practice exercise to improve and consolidate your knowledge. 
 
