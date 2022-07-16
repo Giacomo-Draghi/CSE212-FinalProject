@@ -135,6 +135,6 @@ You then want to follo the following rules:
 So for example, if a customer comes and oders 40 items, and have just 20, we want to reorder about 40 items. If another one comes and orders 37, then we need to reorder 20 leaving us with 23 items. this logic is to be keeps for all the orders. 
 Also items should have **unique values id**, it should never be repeated, and should be a growing number. 
 
-[Back to Homepage](Home)
+[Back to Homepage](Home.md)
 
 You can find a solution example here: [Solution](Stacks-sln.py) 
